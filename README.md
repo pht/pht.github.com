@@ -1,1 +1,1 @@
-# <http://pht.github.com/>
+# All the vanity is at <http://pht.github.com/>
